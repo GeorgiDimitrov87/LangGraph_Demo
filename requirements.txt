@@ -1,0 +1,18 @@
+# --- Core Frameworks ---
+streamlit
+langgraph
+langchain
+langchain-core
+langchain-community
+
+# --- LLM Providers & State Management ---
+langchain-openai
+langgraph-checkpoint
+
+# --- Research & Web Tools ---
+ddgs
+beautifulsoup4
+requests
+python-dotenv
+pydantic
+typing-extensions
